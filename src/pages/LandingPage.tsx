@@ -13,7 +13,9 @@ export default function LandingPage() {
       >
         go to MyPage
       </button>
-      LandingPage
+      랜딩 페이지
+      <h1>어서오세요!</h1>
+      <h2>키덕키득입니다~</h2>
     </div>
   )
 }

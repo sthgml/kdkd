@@ -11,11 +11,10 @@ export default function LandingPage() {
           navigate("/mypage")
         }}
       >
-        go to MyPage
+        마이페이지로 가기
       </button>
-      랜딩 페이지
       <h1>어서오세요!</h1>
-      <h2>키덕키득입니다~</h2>
+      <h2>키덕키득에 오신 걸 환영해요!</h2>
     </div>
   )
 }
